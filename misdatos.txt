@@ -1,0 +1,23 @@
+abracadabra
+123.35
+abc89
+-12.49
+pedrito
+1.1
+0xff00b
+adios
+99882
+772
+paco
+"12.5"
+34
+23,98
+129.332.2
+hola
+33.87
+0092.3
+37.123
+nadamás
+fin de fichero
+
+
